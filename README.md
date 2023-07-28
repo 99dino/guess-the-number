@@ -8,7 +8,7 @@
 
 - ![Winning the Game](img/Winning.png)
 
-### Rules and Features
+### Instructions
 + Enter a valid number b/w 1 to 50.
 + If it says quite low then hidden number is not more than twice the currently guessed number.
 + If it says too low then hidden number is twice more than the currently guessed number.
@@ -16,5 +16,5 @@
 + If your score hit 0 then you loses the Game. (Game Over)
 
 
-#### Fun
+#### Fun challenge
 + Can you come up with the strategy such that you dont't have to use all the moves.
